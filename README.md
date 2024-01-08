@@ -1,3 +1,6 @@
 # DM-Spammer
 A Geometry Dash Spammer tool, This tool implements a rate-limit bypass mechanism Depening on the number of geometry dash accounts you would like to use against your victim. 
 I was originally planning to use this tool myself but decided not to use it and instead make it open source for other people to use...
+
+
+This Tool hasn't been propperly tested due to the lack of accounts so if you find an issue please throw me an issue so I can fix my code...
